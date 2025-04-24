@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstractShapes/abstractShapes.iml" filepath="$PROJECT_DIR$/abstractShapes/abstractShapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week9-MSaribuga.iml" filepath="$PROJECT_DIR$/week9-MSaribuga.iml" />
+    </modules>
+  </component>
+</project>
